@@ -21,6 +21,8 @@ credentials: true
 }
 ));
 
+mongoose.connect('mongodb+srv://HungryHub:122001@cluster0.rj41z1a.mongodb.net/HungryHubMern?retryWrites=true&w=majority')
+
 mongoDB() ;
 app.get('/', (req, res) => {
   res.send('Hello World!')
