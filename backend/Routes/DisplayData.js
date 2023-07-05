@@ -1,6 +1,6 @@
 const express = require('express')
-const router = require('./CreateUser')
-// const router = express.Router()
+// const router = require('./CreateUser')
+const router = express.Router()
 
 router.post('/foodData', (req,res)=>{          // Post is only best option to send the data to the front-end
     try {
