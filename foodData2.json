@@ -1,0 +1,150 @@
+[
+    {
+        "CategoryName": "Rolls",
+        "name": "Veg Roll",
+        "img": "https://images.pexels.com/photos/2955819/pexels-photo-2955819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "options": [
+            {
+                "half": "130",
+                "full": "220"
+            }
+        ],
+        "description": "A veg roll is a savory and flavorful snack consisting of a variety of vegetables wrapped in a thin flatbread."
+
+
+    },
+    {
+        "CategoryName": "Rolls",
+        "name": "Veg Cheese Roll",
+        "img": "https://i0.wp.com/aartimadan.com/wp-content/uploads/2021/03/achari-veg-cheese-roll-recipe.jpeg?w=1280&ssl=1",
+        "options": [
+            {
+                "half": "110",
+                "full": "200"
+            }
+        ],
+        "description": "Veg cheese roll is a flavorful and savory snack consisting of a vegetable filling wrapped in a soft tortilla with melted cheese."
+    },
+    {
+        "CategoryName": "Rolls",
+        "name": "Veg Kathi Roll",
+        "img": "https://i0.wp.com/dishesandflavors.com/wp-content/uploads/2020/10/IMG_7841.jpeg?resize=1024%2C768&ssl=1",
+        "options": [
+            {
+                "half": "200",
+                "full": "320"
+            }
+        ],
+        "description": "A veg kathi roll is a flavorful Indian street food consisting of a rolled flatbread filled with a spiced and sautéed vegetable filling."
+    },
+    {
+        "CategoryName": "Rolls",
+        "name": "Paneer Kathi Roll",
+        "img": "https://spicecravings.com/wp-content/uploads/2020/12/Paneer-kathi-Roll-6.jpg",
+        "options": [
+            {
+                "half": "170",
+                "full": "300"
+            }
+        ],
+        "description": " A delicious Indian street food consisting of grilled cottage cheese wrapped in a soft flatbread, typically served with a tangy sauce and crunchy vegetables."
+    },
+    {
+        "CategoryName": "Rolls",
+        "name": "Chicken Kathi Roll",
+        "img": "https://www.cookwithkushi.com/wp-content/uploads/2022/10/best_chicken_kati_roll_lunch_dinner.jpg",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": "Chicken Kathi Roll is a popular Indian street food consisting of flavorful grilled chicken wrapped in a paratha or flatbread with a variety of spicy and tangy fillings."
+    },
+    {
+        "CategoryName": "Rolls",
+        "name": "Aloo Veggie Roll",
+        "img": "https://www.vidhyashomecooking.com/wp-content/uploads/2022/05/PotatoRotiRoll.webp",
+        "options": [
+            {
+                "half": "120",
+                "full": "220"
+            }
+        ],
+        "description": "An Aloo Veggie Roll is a delicious Indian street food snack consisting of a flavorful potato and vegetable filling wrapped in a soft, thin bread."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chilli Paneer",
+        "img": "https://media.istockphoto.com/photos/spicy-paneer-or-chilli-paneer-or-paneer-tikka-or-cottage-cheese-in-picture-id697316634?b=1&k=20&m=697316634&s=170667a&w=0&h=bctfHdYTz9q2dJUnuxGRDUUwC9UBWjL_oQo5ECVVDAs=",
+        "options": [
+            {
+                "half": "120",
+                "full": "200"
+            }
+        ],
+        "description": "Chilli Paneer is a popular Indo-Chinese dish made with fried paneer (Indian cottage cheese) tossed in a spicy, tangy sauce with bell peppers and onions."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Paneer 65",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-kabab-in-red-sauce-is-an-indian-dish-made-from-chunks-of-picture-id1257507446?b=1&k=20&m=1257507446&s=170667a&w=0&h=Nd7QsslbvPqOcvwu1bY0rEPZXJqwoKTYCal3nty4X-Y=",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": "Paneer 65 is a spicy and flavorful Indian dish made with deep-fried paneer cubes coated in a tangy and spicy sauce."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chicken Tikka",
+        "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMHRpa2thfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "half": "170",
+                "full": "300"
+            }
+        ],
+        "description": "Chicken tikka is a flavorful Indian dish consisting of marinated and grilled chunks of chicken."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Paneer Tikka",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-at-skewers-in-black-bowl-at-dark-slate-background-paneer-picture-id1186759790?k=20&m=1186759790&s=612x612&w=0&h=e9MlX_7cZtq9_-ORGLPNU27VNP6SvDz7s-iwTxrf7wU=",
+        "options": [
+            {
+                "half": "170",
+                "full": "250"
+            }
+        ],
+        "description": "Paneer tikka is a flavorful Indian dish made by marinating and grilling cubes of paneer cheese along with vegetables and spices."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Chicken Cheese Pizza",
+        "img": "https://media.istockphoto.com/photos/double-topping-pizza-on-the-wooden-desk-isolated-picture-id1074109872?k=20&m=1074109872&s=612x612&w=0&h=JoYwwTfU_mMBykXpRB_DmgeecfotutOIO9pV5_JObpk=",
+        "options": [
+            {
+                "regular": "120",
+                "medium": "230",
+                "large": "350"
+            }
+        ],
+        "description": "Chicken cheese pizza is a delicious combination of tender chicken and melted cheese on a crispy pizza crust."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Mix Veg Pizza",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "regular": "100",
+                "medium": "200",
+                "large": "300"
+            }
+        ],
+        "description": "A mix veg pizza is a flavorful and delicious pizza topped with a variety of mixed vegetables."
+    }
+]

@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+    .navbar-toggler {
+      display: inline-block;
+    }
+  
+}
+    .collapse.navbar-collapse {
+      display: none;
+   
+    }
