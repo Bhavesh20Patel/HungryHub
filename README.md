@@ -9,3 +9,4 @@ handling.
 
 
 
+![Web capture_8-7-2023_235455_localhost](https://github.com/Bhavesh20Patel/HungryHub/assets/101475153/661a16a9-8f9b-4c76-9a1d-41caee328140)
