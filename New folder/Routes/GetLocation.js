@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router()
 const axios = require('axios')
-const jwtSecret = "MynameisBhaveshPatelIamTheOnly12#"
+const jwtSecret = ""
 
 
 router.post('/getlocation', async (req, res) => {
